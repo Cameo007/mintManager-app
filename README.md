@@ -1,1 +1,1 @@
-# mintManager
+# mintManager app
